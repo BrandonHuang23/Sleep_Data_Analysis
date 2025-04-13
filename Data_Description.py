@@ -5,7 +5,7 @@ import scipy.stats as stats
 import numpy as np
 
 # Load data
-df = pd.read_csv("sleep_subset_linear_weak_450.csv")
+df = pd.read_csv("sleep_subset.csv")
 
 # Set plot style
 sns.set(style="whitegrid")
